@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ColemanUK
+- 👀 I’m interested in Software Engineering, Cyber Security
+- 🌱 I’m currently learning C#, React.JS, Cyber Security, Pen Testing & Project Management
+- 📫 How to reach me email - tcoleman981@gmail.com
